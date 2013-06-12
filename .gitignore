@@ -1,0 +1,4 @@
+# Lines starting with '#' are considered comments.
+*.bak
+
+input/jahre
